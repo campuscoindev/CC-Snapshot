@@ -1,2 +1,15 @@
 # CC-Snapshot
 Official CampusCoin Blockchain Snapshot
+
+CAMPUSCOIN BLOCKCHAIN SNAPSHOT - NOV 18 2019 FULL TO BLOCK 1124454
+
+ARCHIVE.ORG
+https://archive.org/details/ccsnapshotnov182019fulltoblk1131027
+MEGA
+https://mega.nz/#!k9QnUK5B!uvwSAAAbUcvYt-ZDNjca5TZ248RL38UpejXPIJdKQww
+DROPBOX
+https://www.dropbox.com/s/mhx1us4xcznz5qt/CC-SNAPSHOT-NOV18-2019-FULL-TO-BLK1131027.zip?dl=0
+Magnet Link
+magnet:?xt=urn:btih:f786e5df69de61d286abe7a0eaeb778d126eb7db&dn=CC-SNAPSHOT-NOV18-2019-FULL-TO-BLK1131027.zip
+
+sha256    112E1EF3C512D8D4847DBD3710D571892F1FCD42366577E973878CC0AB8EA7CB
