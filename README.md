@@ -1,20 +1,15 @@
 # CC-Snapshot
-Official CampusCoin Blockchain Snapshot
+OFFICIAL CAMPUSCOIN BLOCKCHAIN SNAPSHOT
 
-CAMPUSCOIN BLOCKCHAIN SNAPSHOT - MAR 08 2021 FULL TO BLOCK 1777180
+CAMPUSCOIN BLOCKCHAIN - NOV 19 2023 - BLOCK 3077751
 
-ARCHIVE.ORG
-https://archive.org/details/cc-snapshot-mar-08-2021-full-to-blk-1777180
+ARCHIVE.ORG https://archive.org/download/cc-bootstrap-3077751/CC-BOOTSTRAP.7z
+MEGA https://mega.nz/file/wopR1aYJ#RTE-5kb5XBXYOdeFztGo9YKgR-u1rZ8sKTg_ZMd1udA
+DROPBOX https://www.dropbox.com/scl/fi/ajn8vsebu56cfdbnz4qqp/CC-BOOTSTRAP.7z?rlkey=imidm8icnb6a3mqm99wewqzhh&dl=0
 
-MEGA
-https://mega.nz/file/xoJRVCoR#jiauta4ZWBs6821nbjcAX8ZG_OtyXi7aybPMDYxsDcg
+TORRENT:
+https://archive.org/download/cc-bootstrap-3077751/cc-bootstrap-3077751_archive.torrent
 
-DROPBOX
-https://www.dropbox.com/s/smrn0zwhkrhthrk/CC-SNAPSHOT-MAR08-2021-FULL-TO-BLK1777180.zip?dl=0
-
-
-Name: CC-SNAPSHOT-MAR08-2021-FULL-TO-BLK1777180.zip
-
-Size: 947282467 bytes (903 MiB)
-
-SHA256: 5E32AEBE4DF4D2CF098825D7F87924CDF8BAD625F8CE4D6BAC90475346F265A2
+Name: CC-BOOTSTRAP.7z
+Size: 1326002871 bytes (1264 MiB)
+SHA256: 0E38A82B453ACC33FA9F0AB22C15DD69530A4BEFB65D4175524C2C2EC58B84A7
