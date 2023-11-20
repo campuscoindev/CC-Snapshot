@@ -4,7 +4,9 @@ OFFICIAL CAMPUSCOIN BLOCKCHAIN SNAPSHOT
 CAMPUSCOIN BLOCKCHAIN - NOV 19 2023 - BLOCK 3077751
 
 ARCHIVE.ORG https://archive.org/download/cc-bootstrap-3077751/CC-BOOTSTRAP.7z
+
 MEGA https://mega.nz/file/wopR1aYJ#RTE-5kb5XBXYOdeFztGo9YKgR-u1rZ8sKTg_ZMd1udA
+
 DROPBOX https://www.dropbox.com/scl/fi/ajn8vsebu56cfdbnz4qqp/CC-BOOTSTRAP.7z?rlkey=imidm8icnb6a3mqm99wewqzhh&dl=0
 
 TORRENT:
